@@ -1,0 +1,28 @@
+name: The Nexus Vision
+favicon: null
+layout_spectrum: 0.6256115178111941
+typography_spectrum: 0.8844424409326166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.36257264018058777
+  lightness: 0.3801623515319079
+  saturation: 0.7185606393031776
+  rhythmicContrast: 0.20002764067612588
+purpose: []
